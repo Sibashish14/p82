@@ -1,0 +1,20 @@
+[
+    {
+        "person":"Asutosh Singh",
+        "caption":"Scene is Beauty",
+        "image_url":"../assets/post.jpeg",
+        "like":"12k"
+    },
+    {
+        "person":"Amay Agarwal",
+        "caption":"Good food,Good life",
+        "image_url":"..assets/image_2.jpg",
+        "like":"10k"
+    },
+    {
+        "person":"Krishna Jain",
+        "caption":"Boating is fun",
+        "image_url":"../assets/image_7.jpg",
+        "like":"15k"
+    }
+]
